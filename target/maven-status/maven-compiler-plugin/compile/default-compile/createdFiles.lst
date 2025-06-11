@@ -1,2 +1,7 @@
-com/venezuela/chatbot/ChatBot.class
+com/venezuela/chatbot/DatabaseHelper.class
+com/venezuela/chatbot/User.class
+com/venezuela/chatbot/ConversationState.class
+com/venezuela/chatbot/Account.class
 com/venezuela/chatbot/Main.class
+com/venezuela/chatbot/ChatBot.class
+com/venezuela/chatbot/ChatBot$1.class

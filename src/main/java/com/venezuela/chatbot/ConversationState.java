@@ -1,0 +1,12 @@
+package com.venezuela.chatbot;
+
+public enum ConversationState {
+    GREETING,
+    MAIN_MENU,
+    VIEWING_PAYMENT_METHODS,
+    SALES_COLLECTING_NAME,
+    SALES_COLLECTING_EMAIL,
+    SALES_SELECTING_ACCOUNT,
+    SALES_AWAITING_PAYMENT_PROOF,
+    HANDOFF_TO_AGENT
+}
