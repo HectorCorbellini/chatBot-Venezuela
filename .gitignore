@@ -1,0 +1,53 @@
+# Archivos de compilación
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de configuración local
+*.properties
+*.yml
+*.yaml
+
+# Archivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Archivos de credenciales
+*.token
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de Maven
+.m2/
+
+# Archivos de configuración de Git
+.git-credentials
+
+# Archivos específicos del proyecto que no deben subirse
+config/
